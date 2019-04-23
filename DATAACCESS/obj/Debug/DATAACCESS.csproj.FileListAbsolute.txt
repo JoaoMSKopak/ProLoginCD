@@ -1,0 +1,10 @@
+G:\ProgApli\ProLoginCD\DATAACCESS\bin\Debug\DATAACESS.dll.config
+G:\ProgApli\ProLoginCD\DATAACCESS\bin\Debug\DATAACESS.dll
+G:\ProgApli\ProLoginCD\DATAACCESS\bin\Debug\DATAACESS.pdb
+G:\ProgApli\ProLoginCD\DATAACCESS\bin\Debug\MODEL.dll
+G:\ProgApli\ProLoginCD\DATAACCESS\bin\Debug\MODEL.pdb
+G:\ProgApli\ProLoginCD\DATAACCESS\obj\Debug\DATAACCESS.csprojAssemblyReference.cache
+G:\ProgApli\ProLoginCD\DATAACCESS\obj\Debug\DATAACCESS.csproj.CoreCompileInputs.cache
+G:\ProgApli\ProLoginCD\DATAACCESS\obj\Debug\DATAACCESS.csproj.CopyComplete
+G:\ProgApli\ProLoginCD\DATAACCESS\obj\Debug\DATAACESS.dll
+G:\ProgApli\ProLoginCD\DATAACCESS\obj\Debug\DATAACESS.pdb
